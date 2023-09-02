@@ -1,0 +1,25 @@
+## General info
+
+This is a [Next.js](https://nextjs.org/) studying project. I used tailwindcss and React to develop this project. Also I used framer-motion library to create beautiful animations.
+
+Figma [template](https://www.figma.com/file/EyzNoOFak1Nb1bBx9ZKI7E/Modern-UI%2FUX-Framer-Motion?t=U27Izw4pXMDE1r3r-0).
+
+⚠This is a studying project based on JavaScript Mastery's YT video.⚠
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
